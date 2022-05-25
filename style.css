@@ -1,0 +1,17 @@
+#Title {
+    font-size : 40px;
+    font-family : Arial;
+  }
+  body {
+     text-align : center;
+    background : green;
+  }
+  .stuff {
+    font-size : 20px;
+  }
+  #SucculentImg {
+    width : 40%;
+    border-style : solid;
+    padding : 10px;
+    border-radius : 25px;
+  }
